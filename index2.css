@@ -1,0 +1,42 @@
+body
+{
+    background-color: rgba(48, 165, 165, 0.868);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#form-container
+{
+    background-color: rgba(222, 230, 222, 0.884);
+    padding: 50px;
+    text-align:center;
+    
+}
+h2
+{
+    margin: 0px 0px 10px 0px;
+    color: rgba(12, 150, 5, 0.87);
+    font-size: xx-large;
+}
+input
+{
+    border: 2px rgba(0, 0, 0, 0.68) solid;
+    width: 250px;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 10px;
+}
+.btn
+{
+    background-color: rgba(5, 49, 247, 0.916);
+    color: white;
+    font-size: x-large;
+    padding: 10px;
+}
+.error
+{
+    color: red;
+    margin: 0px;
+    text-align: left;
+}
